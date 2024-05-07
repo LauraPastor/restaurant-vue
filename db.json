@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "email@test.com",
+      "username": "Cookie Monster",
+      "password": 100
+    },
+    {
+      "id": "2",
+      "email": "email@test.com",
+      "username": "Elmo",
+      "password": 200
+    },
+    {
+      "id": "b511",
+      "username": "John",
+      "password": "123"
+    },
+    {
+      "id": "033a",
+      "username": "Peter",
+      "password": "pan"
+    },
+    {
+      "id": "e2a9",
+      "username": "peter",
+      "password": "pan"
+    },
+    {
+      "id": "0a7e",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "eaca",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "512d",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "647d",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "e867",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "e837",
+      "email": "peter",
+      "password": "pan"
+    },
+    {
+      "id": "4cd9",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "7f10",
+      "username": "Elmo",
+      "password": "200"
+    },
+    {
+      "id": "e44a",
+      "username": "Laura",
+      "password": "123"
+    },
+    {
+      "id": "6718",
+      "username": "Laura",
+      "password": "123"
+    },
+    {
+      "id": "0f2e",
+      "username": "Laura",
+      "password": "123"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "McDollars",
+      "address": "1235 Etwas St",
+      "website": "www.mcdonalds.com",
+      "image": "https://picsum.photos/500/300?random=${Math.random()}",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Burger King",
+      "address": "5678 Elm St",
+      "phone": "987-654-3210",
+      "website": "www.burgerking.com",
+      "hours": "9am-9pm",
+      "rating": "4.0",
+      "price": "$",
+      "cuisine": "Fast Food",
+      "image": "https://picsum.photos/500/300?random=2"
+    },
+    {
+      "id": "f29e",
+      "name": "pizza hut",
+      "address": "alexplatz",
+      "website": "www.pizzahut.com",
+      "image": "https://picsum.photos/500/300"
+    },
+    {
+      "id": "ac79",
+      "name": "Starbucks",
+      "address": "Boxi strasse",
+      "website": "starsucks.com",
+      "image": "https://picsum.photos/500/300?ramdom=${Math.random()}"
+    }
+  ]
+}
